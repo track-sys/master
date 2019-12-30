@@ -1,6 +1,6 @@
 package com.altimetrik.ticketmanagementsystem.service;
 
-import com.altimetrik.ticketmanagementsystem.model.TicketInfo;
+import com.altimetrik.ticketmanagementsystem.domain.TicketInfo;
 
 public interface TicketService {
 

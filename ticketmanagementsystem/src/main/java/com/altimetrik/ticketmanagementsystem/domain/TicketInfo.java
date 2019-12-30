@@ -1,4 +1,4 @@
-package com.altimetrik.ticketmanagementsystem.model;
+package com.altimetrik.ticketmanagementsystem.domain;
 
 import java.util.Date;
 

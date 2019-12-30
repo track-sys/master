@@ -3,7 +3,7 @@ package com.altimetrik.ticketmanagementsystem.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.altimetrik.ticketmanagementsystem.model.TicketInfo;
+import com.altimetrik.ticketmanagementsystem.domain.TicketInfo;
 import com.altimetrik.ticketmanagementsystem.repo.TicketRepository;
 
 @Service
